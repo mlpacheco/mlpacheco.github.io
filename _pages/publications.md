@@ -11,8 +11,9 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br />
+  <b>{{ publi.title }}</b> <br />
+  {{ publi.authors }} <br />
+  In <em>{{ publi.venue }}</em> <br />
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
   <a href="{{ publi.code.url }}">{{ publi.code.display }}</a>
 
