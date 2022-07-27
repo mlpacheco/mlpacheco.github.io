@@ -9,3 +9,14 @@
     display: \[Code\]
   highlight: 0
 
+- title: "Tackling Fake News Detection by Continually Improving Social Context Representations using Graph Neural Networks"
+  authors: N Mehta, ML Pacheco, G Goldwasser
+  venue: "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022)"
+  link:
+    url: https://aclanthology.org/2022.acl-long.97/
+    display: \[Paper\]
+  code:
+    url: https://github.com/hockeybro12/fakenews_inference_operators
+    display: \[Code\]
+  highlight: 0
+
