@@ -20,6 +20,17 @@
     display: \[Code\]
   highlight: 0
 
+- title: "Automated Attack Synthesis by Extracting Finite State Machines from Protocol Specification Documents"
+  authors: ML Pacheco, M von Hippel, B Weintraub, D Goldwasser, C Nita-Rotaru
+  venue: "2022 IEEE Symposium on Security and Privacy (SP)"
+  link:
+    url: https://arxiv.org/abs/2202.09470
+    display: \[Paper\]
+  code:
+    url: https://github.com/RFCNLP
+    display: \[Code\]
+  highlight: 0
+
 - title: "Modeling Human Mental States with an Entity-based Narrative Graph"
   authors: IT Lee, ML Pacheco, D Goldwasser
   venue: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2021)"
@@ -55,12 +66,34 @@
 
 - title: "Modeling Content and Context with Deep Relational Learning"
   authors: ML Pacheco, D Goldwasser
-  venue: "Transactions of the Association for Computational Linguistics, Volume 9"
+  venue: "Transactions of the Association for Computational Linguistics, Volume 9 (TACL)"
   link:
     url: https://aclanthology.org/2021.tacl-1.7/
     display: \[Paper\]
   code:
     url: https://gitlab.com/purdueNlp/DRaiL
+    display: \[Code\]
+  highlight: 0
+
+- title: "Identifying Collaborative Conversations using Latent Discourse Behaviors"
+  authors: A Jain, ML Pacheco, S Lancette, M Goindani, D Goldwasser
+  venue: "Proceedings of the 21th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2020)"
+  link:
+    url: https://aclanthology.org/2020.sigdial-1.10/
+    display: \[Paper\]
+  code:
+    url: https://gitlab.com/ayush-jain/collaborative-yahoo-discourse
+    display: \[Code\]
+  highlight: 0
+
+- title: "Weakly-Supervised Modeling of Contextualized Event Embedding for Discourse Relations"
+  authors: IT Lee, ML Pacheco, D Goldwasser
+  venue: "Findings of the Association for Computational Linguistics: EMNLP 2020"
+  link:
+    url: https://aclanthology.org/2020.findings-emnlp.446/
+    display: \[Paper\]
+  code:
+    url: https://github.com/doug919/narrative_graph_emnlp2020
     display: \[Code\]
   highlight: 0
 
