@@ -2,5 +2,8 @@
   authors: ML Pacheco, T Islam, M Mahajan, A Shor, M Yin, L Ungar, D Goldwasser
   link:
     url: https://aclanthology.org/2022.naacl-main.427/
-    display: PDF
+    display: \[PDF\]
+  code:
+    url: https://gitlab.com/mlpacheco/covid-moral-foundations
+    display: \[Code\]
   highlight: 0
