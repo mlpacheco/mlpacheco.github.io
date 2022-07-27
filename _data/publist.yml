@@ -54,7 +54,7 @@
   highlight: 0
 
 - title: "Modeling Content and Context with Deep Relational Learning"
-  authors: ML Pacheco,D Goldwasser
+  authors: ML Pacheco, D Goldwasser
   venue: "Transactions of the Association for Computational Linguistics, Volume 9"
   link:
     url: https://aclanthology.org/2021.tacl-1.7/
