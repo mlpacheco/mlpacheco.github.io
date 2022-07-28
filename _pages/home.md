@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-I am a Postdoctoral Researcher [Microsoft Research
+I am a Postdoctoral Researcher at [Microsoft Research
 NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/). In Fall 2023, I will join the [Department of Computer Science at the University of Colorado Boulder](https://www.colorado.edu/cs/) as an Assistant Professor. I completed my PhD in Computer Science at Purdue University under the supervision of Prof. [Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/)
 
 
