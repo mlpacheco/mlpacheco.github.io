@@ -8,6 +8,7 @@
     url: https://gitlab.com/mlpacheco/covid-moral-foundations
     display: \[Code\]
   highlight: 0
+  year: 2022
 
 - title: "Tackling Fake News Detection by Continually Improving Social Context Representations using Graph Neural Networks"
   authors: N Mehta, ML Pacheco, D Goldwasser
@@ -19,6 +20,7 @@
     url: https://github.com/hockeybro12/fakenews_inference_operators
     display: \[Code\]
   highlight: 0
+  year: 2022
 
 - title: "Automated Attack Synthesis by Extracting Finite State Machines from Protocol Specification Documents"
   authors: ML Pacheco, M von Hippel, B Weintraub, D Goldwasser, C Nita-Rotaru
@@ -30,6 +32,7 @@
     url: https://github.com/RFCNLP
     display: \[Code\]
   highlight: 0
+  year: 2022
 
 - title: "Modeling Human Mental States with an Entity-based Narrative Graph"
   authors: IT Lee, ML Pacheco, D Goldwasser
@@ -41,6 +44,7 @@
     url: https://github.com/doug919/entity_based_narrative_graph
     display: \[Code\]
   highlight: 0
+  year: 2021
 
 - title: "Identifying Morality Frames in Political Tweets using Relational Learning"
   authors: S Roy, ML Pacheco, D Goldwasser
@@ -52,6 +56,7 @@
     url: https://github.com/shamikroy/moral-role-prediction
     display: \[Code\]
   highlight: 0
+  year: 2021
 
 - title: "Randomized Deep Structured Prediction for Discourse-Level Processing"
   authors: M Widmoser, ML Pacheco, J Honorio, D Goldwasser
@@ -63,6 +68,7 @@
     url: https://gitlab.com/purdueNlp/DRaiL
     display: \[Code\]
   highlight: 0
+  year: 2021
 
 - title: "Modeling Content and Context with Deep Relational Learning"
   authors: ML Pacheco, D Goldwasser
@@ -74,6 +80,7 @@
     url: https://gitlab.com/purdueNlp/DRaiL
     display: \[Code\]
   highlight: 0
+  year: 2021
 
 - title: "Identifying Collaborative Conversations using Latent Discourse Behaviors"
   authors: A Jain, ML Pacheco, S Lancette, M Goindani, D Goldwasser
@@ -85,6 +92,7 @@
     url: https://gitlab.com/ayush-jain/collaborative-yahoo-discourse
     display: \[Code\]
   highlight: 0
+  year: 1620
 
 - title: "Weakly-Supervised Modeling of Contextualized Event Embedding for Discourse Relations"
   authors: IT Lee, ML Pacheco, D Goldwasser
@@ -96,6 +104,7 @@
     url: https://github.com/doug919/narrative_graph_emnlp2020
     display: \[Code\]
   highlight: 0
+  year: 1620
 
 - title: "Leveraging Textual Specifications for Grammar-Based Fuzzing of Network Protocols"
   authors: S Jero, ML Pacheco, D Goldwasser, C Nita-Rotaru
@@ -107,6 +116,7 @@
     url: https://gitlab.com/purdueNlp/snake_nlp
     display: \[Code\]
   highlight: 0
+  year: 1620
 
 - title: "PurdueNLP at SemEval-2017 Task 1: Predicting Semantic Textual Similarity with Paraphrase and Event Embeddings"
   authors: IT Lee, M Goindani, C Li, D Jin, K Johnson, X Zhang, ML Pacheco, D Goldwasser
@@ -118,6 +128,7 @@
     url: https://mlpacheco.github.io/publications/
     display: \[Code\]
   highlight: 0
+  year: 1620
 
 - title: "Introducing DRAIL – a Step Towards Declarative Deep Relational Learning"
   authors: X Zhang, ML Pacheco, C Li, D Goldwasser
@@ -129,6 +140,7 @@
     url: https://gitlab.com/purdueNlp/DRaiL
     display: \[Code\]
   highlight: 0
+  year: 1620
 
 - title: "Adapting Event Embedding for Implicit Discourse Relation Recognition"
   authors: ML Pacheco, IT Lee, X Zhang, AK Zehady, P Daga, D Jin, A Parolia, D Goldwasser
@@ -140,4 +152,5 @@
     url: https://mlpacheco.github.io/publications/
     display: \[Code\]
   highlight: 0
+  year: 1620
 
