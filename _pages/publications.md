@@ -33,7 +33,19 @@ permalink: /publications/
 
 {% endfor %}
 
-## 2016-2020
+## 2020
+
+{% for publi in site.data.publist_2020 %}
+
+  <b>{{ publi.title }}</b> <br />
+  {{ publi.authors }} <br />
+  <em>{{ publi.venue }}</em> <br />
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <a href="{{ publi.code.url }}">{{ publi.code.display }}</a>
+
+{% endfor %}
+
+## 2016-2019
 
 {% for publi in site.data.publist %}
 
