@@ -1,26 +1,3 @@
-- title: "Identifying Collaborative Conversations using Latent Discourse Behaviors"
-  authors: A Jain, ML Pacheco, S Lancette, M Goindani, D Goldwasser
-  venue: "Proceedings of the 21th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2020)"
-  link:
-    url: https://aclanthology.org/2020.sigdial-1.10/
-    display: \[Paper\]
-  code:
-    url: https://gitlab.com/ayush-jain/collaborative-yahoo-discourse
-    display: \[Code\]
-  highlight: 0
-  year: 1620
-
-- title: "Weakly-Supervised Modeling of Contextualized Event Embedding for Discourse Relations"
-  authors: IT Lee, ML Pacheco, D Goldwasser
-  venue: "Findings of the Association for Computational Linguistics: EMNLP 2020"
-  link:
-    url: https://aclanthology.org/2020.findings-emnlp.446/
-    display: \[Paper\]
-  code:
-    url: https://github.com/doug919/narrative_graph_emnlp2020
-    display: \[Code\]
-  highlight: 0
-  year: 1620
 
 - title: "Leveraging Textual Specifications for Grammar-Based Fuzzing of Network Protocols"
   authors: S Jero, ML Pacheco, D Goldwasser, C Nita-Rotaru
@@ -32,7 +9,7 @@
     url: https://gitlab.com/purdueNlp/snake_nlp
     display: \[Code\]
   highlight: 0
-  year: 1620
+  year: 2010
 
 - title: "PurdueNLP at SemEval-2017 Task 1: Predicting Semantic Textual Similarity with Paraphrase and Event Embeddings"
   authors: IT Lee, M Goindani, C Li, D Jin, K Johnson, X Zhang, ML Pacheco, D Goldwasser
@@ -44,7 +21,7 @@
     url: https://mlpacheco.github.io/publications/
     display: \[Code\]
   highlight: 0
-  year: 1620
+  year: 2010
 
 - title: "Introducing DRAIL – a Step Towards Declarative Deep Relational Learning"
   authors: X Zhang, ML Pacheco, C Li, D Goldwasser
@@ -56,7 +33,7 @@
     url: https://gitlab.com/purdueNlp/DRaiL
     display: \[Code\]
   highlight: 0
-  year: 1620
+  year: 2010
 
 - title: "Adapting Event Embedding for Implicit Discourse Relation Recognition"
   authors: ML Pacheco, IT Lee, X Zhang, AK Zehady, P Daga, D Jin, A Parolia, D Goldwasser
@@ -68,5 +45,5 @@
     url: https://mlpacheco.github.io/publications/
     display: \[Code\]
   highlight: 0
-  year: 1620
+  year: 2010
 
