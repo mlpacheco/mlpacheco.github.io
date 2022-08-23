@@ -6,8 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-I am a Postdoctoral Researcher at [Microsoft Research
-NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/). In Fall 2023, I will join the [Department of Computer Science at the University of Colorado Boulder](https://www.colorado.edu/cs/) as an Assistant Professor. I completed my PhD in Computer Science at Purdue University under the supervision of Prof. [Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/).
+I am a Visiting Assistant Professor at the [Dept. of Computer Science at the University of Colorado Boulder](https://www.colorado.edu/cs/), and a Postdoctoral Researcher at [Microsoft Research
+NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/). In Fall 2023, I will move to a tenure-track Assistant Professor position at CU Boulder. I completed my PhD in Computer Science at Purdue University under the supervision of Prof. [Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/).
 
 
 I primarily work on Natural Language Processing. My research vision centers humans and society in the development of language technologies. I am mostly interested in the integration of human expertise and statistical models, and in the relationship between language and social systems. Most of my previous work has focused on (deep) relational learning, and its application for analyzing political discourse, argumentation and narratives. I am a strong believer in interdisciplinary, collaborative work. I actively collaborate with researchers in linguistics, security, human-computer interaction, and the behavioral and social sciences. 
