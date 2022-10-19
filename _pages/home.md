@@ -9,7 +9,7 @@ permalink: /
 ### About Me
 
 I am a Visiting Assistant Professor of Computer Science at the [University of Colorado Boulder](https://www.colorado.edu/cs/), and a Postdoctoral Researcher at [Microsoft Research
-NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/). In Fall 2023, I will move to a tenure-track Assistant Professor position at CU Boulder. I completed my PhD in Computer Science at Purdue University under the supervision of Prof. [Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/). Prior to joining Purdue, I worked as a software engineer and data scientist for various startups in Caracas, Venezuela, where I was born and raised. I hold a BSc. in Computer Science and Engineering from the Universidad Simon Bolivar. 
+NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/). In Fall 2023, I will move to a tenure-track Assistant Professor position at CU Boulder. I completed my PhD in Computer Science at Purdue University under the supervision of Prof. [Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/). 
 
 
 ### My Work
