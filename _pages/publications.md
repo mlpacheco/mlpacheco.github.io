@@ -7,9 +7,9 @@ permalink: /publications/
 ---
 
 
-# Publications
+## Publications
 
-## 2023
+### 2023
 
 {% for publi in site.data.publist_2023 %}
 
@@ -21,7 +21,7 @@ permalink: /publications/
 
 {% endfor %}
 
-## 2022
+### 2022
 
 {% for publi in site.data.publist_2022 %}
 
@@ -33,7 +33,7 @@ permalink: /publications/
 
 {% endfor %}
 
-## 2021
+### 2021
 
 {% for publi in site.data.publist_2021 %}
 
@@ -45,7 +45,7 @@ permalink: /publications/
 
 {% endfor %}
 
-## 2020
+### 2020
 
 {% for publi in site.data.publist_2020 %}
 
@@ -57,7 +57,7 @@ permalink: /publications/
 
 {% endfor %}
 
-## 2016-2019
+### 2016-2019
 
 {% for publi in site.data.publist %}
 
