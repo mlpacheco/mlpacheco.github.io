@@ -8,8 +8,8 @@ permalink: /
 
 ### About Me
 
-I am a Visiting Assistant Professor of Computer Science at the [University of Colorado Boulder](https://www.colorado.edu/cs/), and a Postdoctoral Researcher at [Microsoft Research
-NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/). In Fall 2023, I will move to a tenure-track Assistant Professor position at CU Boulder. I completed my PhD in Computer Science at Purdue University under the supervision of Prof. [Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/). 
+I am an Assistant Professor of Computer Science at the [University of Colorado Boulder](https://www.colorado.edu/cs/). Before joining CU, I was a Postdoctoral Researcher at [Microsoft Research
+NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/). I completed my PhD in Computer Science at Purdue University under the supervision of Prof. [Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/). 
 
 I am also an active organizer at [Queer in AI](https://www.queerinai.com/) and [LatinX in AI](https://www.latinxinai.org/).
 
