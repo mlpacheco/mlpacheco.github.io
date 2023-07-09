@@ -31,6 +31,6 @@ I primarily work on Natural Language Processing and Machine Learning. I am mostl
 
 ### Interested in working with me?
 
-- **If you are a current student at CU** come talk to me about your research interests and ideas!
+- **If you are a student at CU** come talk to me about your research interests and ideas!
 - **If you are prospective PhD student** please [apply to CU](https://www.colorado.edu/cs/admissions/graduate-admissions/how-apply) and mention my name in your application. I will carefully consider all applications of prospective students interested in working with me. However, I might not be able to reply to all prospective students email. For more thoughts on this, I recommend Prof. Yonatan Bisk's notes on [cold emailing professors](https://yonatanbisk.com/emailing_professors.html). 
 - I do not have positions available for students outside of CU. 
