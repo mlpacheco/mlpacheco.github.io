@@ -18,6 +18,15 @@ I am also an active organizer at [Queer in AI](https://www.queerinai.com/) and [
 
 I primarily work on Natural Language Processing and Machine Learning. I am mostly interested in the integration of structured knowledge and statistical models, and in the relationship between language and social systems. Most of my previous work has focused on [structured prediction](https://aclanthology.org/2021.eacl-main.100/) and [(deep) statistical relational learning](https://aclanthology.org/2021.tacl-1.7/), and their application for analyzing [public discourse](https://aclanthology.org/2022.naacl-main.427/), [argumentation](https://aclanthology.org/2021.emnlp-main.783/) and [narratives](https://aclanthology.org/2020.findings-emnlp.446/). I am a strong believer in interdisciplinary, collaborative work. I actively collaborate with researchers in linguistics, security, human-computer interaction, bioinformatics, and the behavioral and social sciences. 
 
+### Recent Talks and Tutorials
+
+- *Natural Language Processing in the Era of Chat-GPT*, Guest lecture at the CELEHS and Harvard Medical School 2023 Data Science Summer Program
+- *NS4NLP: Neuro-Symbolic Methods for NLP*, COLING 2022 Tutorial, IJCAI 2021 Tutorial
+- *Neuro-Symbolic Discourse Processing*, Invited talk at Universidad de Puerto Rico Mayaguez
+- *Neuro-Symbolic Modeling for NLP*, Keynote at the 1st LatinX in NLP Workshop at NAACL 2022
+- *Automated Attack Synthesis by Extracting FSMs from Textual Specs*, Invited talk at Microsoft Research, MIT CSAIL, and Trail of Bits.
+- *Reasoning About Entities and Events with Narrative Graphs*, Guest lecture at the University of North Carolina Chapel Hill
+
 ### Recent Academic Service 
 -  DEI Chair for NAACL 2024
 -  Senior Program Committee for AAAI 2024
