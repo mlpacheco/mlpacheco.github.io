@@ -54,6 +54,4 @@ Students should also be comfortable with at least one programming language.
     <td> Thu. Aug 31 </td>
     <td> Lecture: review of relevant NLP/ML concepts (continued) </td>
   </tr>
-
 </table>
-
