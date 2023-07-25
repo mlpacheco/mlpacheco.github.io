@@ -34,11 +34,11 @@ Students should also be comfortable with at least one programming language.
 
 ### Grading
 
-- Course project: 35\%
-- Paper reviews: 25\%
-- Paper presentation: 20\%
-- Class participation: 15\%
-- Quizzes: 10\%
+- Course project: 35%
+- Paper reviews: 25%
+- Paper presentation: 20%
+- Class participation: 15%
+- Quizzes: 10%
 
 ### Course Schedule
 
@@ -328,7 +328,7 @@ during office hours to get early feedback on their paper choice.
 
 ##### Course Project Grading: 
 
-- **Project Proposal**: A short project proposal is due on Sun. Sep 31 at midnight (Week 5). This proposal is worth 5\% of your overall grade. 
+- **Project Proposal**: A short project proposal is due on Sun. Sep 31 at midnight (Week 5). This proposal is worth 5% of your overall grade. 
 The proposal should be no longer than 2 pages (minus references) and include the following sections:
    1. **Title** for your project (this can also change later on).
    2. **Introduction** section, which should explain the context of the paper. It should contain the following information:<br>
@@ -337,15 +337,15 @@ The proposal should be no longer than 2 pages (minus references) and include the
       3. _Likely challenges and mitigations_: What is hard about this task / research question? What are your contingency plans if the reproduction turns out to be harder than expected or experiments do not go as planned?
    3. **Related Work Section**: Include 3-4 sentence descriptions of no less than 4 papers directly relevant to the proposed research. Also mention how the paper you are working on differs from these.
 
--  **Mid-Point Project Report**: A mid-point project summary is due on Sun. Oct 29 at midnight (Week 9). This summary is worth 10\% of your overall grade. The report should be no longer than 4 pages (minus references) and it should include the following sections:
+-  **Mid-Point Project Report**: A mid-point project summary is due on Sun. Oct 29 at midnight (Week 9). This summary is worth 10% of your overall grade. The report should be no longer than 4 pages (minus references) and it should include the following sections:
      1. **Title**: Can include any revisions to your previous title.
      2. **Introduction**: Can include any revisions to your previous introduction.
      4. **Methodology Section**: For research projects, this section should describe the envisioned approach/methodology. For reproduction projects, this summary should include a road map for the reproduction study. i.e., a detailed description of which methods you are going to re-implement from scratch and what existing resources you are re-using (if any). 
      5. **Experimental Section**: a description of the experimental setup and any preliminary results obtained.
 
-- **Final Project Presentation**: In Weeks 15 and 16, each team will deliver a presentation of their project. The presentation will be about 20 minutes + 5 minutes for Q&A. The presentation is worth 10\% of your total grade.
+- **Final Project Presentation**: In Weeks 15 and 16, each team will deliver a presentation of their project. The presentation will be about 20 minutes + 5 minutes for Q&A. The presentation is worth 10% of your total grade.
 
-- **Final Report**: A final report is due on Sun. Dec 20 at midnight. This report should be no longer than 8 pages (minus references) and it is worth 10\% of your overall grade. Your final project report should be built upon your proposal and project summary. Feel free to
+- **Final Report**: A final report is due on Sun. Dec 20 at midnight. This report should be no longer than 8 pages (minus references) and it is worth 10% of your overall grade. Your final project report should be built upon your proposal and project summary. Feel free to
 reuse sections from those two reports in your final report. You may include an appendix beyond 8 pages, but your paper must be understandable without it. Submissions should be in the ACL format. Your final report should be structured like a conference paper. It should contain:
   1. Title
   2. Abstract
