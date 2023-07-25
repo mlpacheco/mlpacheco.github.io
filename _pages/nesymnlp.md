@@ -42,16 +42,11 @@ Students should also be comfortable with at least one programming language.
 
 ### Course Schedule
 
-<table>
-  <tr>
-    <td colspan="2"> <b>Week 1: Introduction</b> </td>
-  </tr>
-  <tr>
-    <td> Tue. Aug 29 </td>
-    <td>Lecture: Introduction and logistics, review of relevant NLP/ML concepts </td>
-  </tr>
-  <tr>
-    <td> Thu. Aug 31 </td>
-    <td> Lecture: review of relevant NLP/ML concepts (continued) </td>
-  </tr>
-</table>
+|     Day     | Content |
+| ----------- | ------------------------ |
+|             | **Week 1: Introduction** |
+| Tue. Aug 29 | Lecture: Introduction and logistics, review of relevant NLP/ML concepts |
+| Thu. Aug 31 | Lecture: review of relevant NLP/ML concepts (continued) |
+|             | **Week 2: Modularity and Decomposability** |
+| Tue. Sep 5  | Student Presentation: [A Decomposable Attention Model for Natural Language Inference]("https://aclanthology.org/D16-1244.pdf") (Parikh et al, EMNLP 2016) |
+
