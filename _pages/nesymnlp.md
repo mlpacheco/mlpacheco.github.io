@@ -42,7 +42,18 @@ Students should also be comfortable with at least one programming language.
 
 ### Course Schedule
 
-<table class="table">
+<table style="border:1px solid black;">
+<tr>
+<th>Table Header</th><th>Table Header</th>
+</tr>
+<tr>
+<td>Table cell 1</td><td>Table cell 2</td>
+</tr>
+<tr>
+<td>Table cell 3</td><td>Table cell 4</td>
+</tr>
+</table>
+>
   <tr>
     <td colspan="2"> <b>Week 1: Introduction </b> </td>
   </tr>
