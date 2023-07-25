@@ -366,3 +366,35 @@ quizzes will include multiple-choice questions and open-ended questions. To prep
 the quizzes, make sure that you (1) have read the papers, (2) have attended the presentations and/or reviewed the slides from the paper presenter, (3) understand the methodologies, findings, and
 contributions of each paper. The instructor cannot accommodate quizzes on a different
 date. Each quiz will take 10 minutes.
+
+### University Policies
+
+#### University Code of Conduct
+
+Both students and faculty are responsible for maintaining an appropriate learning environment in all instructional settings, whether in person, remote or online. Those who fail to adhere to such behavioral standards may be subject to discipline. Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with race, color, national origin, sex, pregnancy, age, disability, creed, religion, sexual orientation, gender identity, gender expression, veteran status, political affiliation or political philosophy. For more information, see the policies on [classroom behavior](https://www.colorado.edu/policies/student-classroom-course-related-behavior) and the [Student Code of Conduct](https://www.colorado.edu/sccr/student-conduct).
+
+#### Accommodation for Disabilities
+
+If you qualify for accommodations because of a disability, please submit your accommodation letter from Disability Services to your faculty member in a timely manner so that your needs can be addressed. Disability Services determines accommodations based on documented disabilities in the academic environment. Information on requesting accommodations is located on the [Disability Services](https://www.colorado.edu/disabilityservices/) website. Contact Disability Services at 303-492-8671 or dsinfo@colorado.edu for further assistance. If you have a temporary medical condition, see [Temporary Medical Conditions](https://www.colorado.edu/disabilityservices/students/temporary-medical-conditions) on the Disability Services website.
+
+#### Preferred Student Names and Pronouns
+
+CU Boulder recognizes that students’ legal information doesn’t always align with how they identify. Students may update their preferred names and pronouns via the student portal; those preferred names and pronouns are listed on instructors’ class rosters. In the absence of such updates, the name that appears on the class roster is the student’s legal name.
+
+#### Honor Code
+
+All students enrolled in a University of Colorado Boulder course are responsible for knowing and adhering to the Honor Code. Violations of the policy may include: plagiarism, cheating, fabrication, lying, bribery, threat, unauthorized access to academic materials, clicker fraud, submitting the same or similar work in more than one course without permission from all course instructors involved, and aiding academic dishonesty. If you have read this far into the syllabus, well done! Send me a picture or video of the coolest animal (your opinion) for a small bump to your grade. All incidents of academic misconduct will be reported to the Honor Code (honor@colorado.edu); 303-492-5550). Students found responsible for violating the academic integrity policy will be subject to nonacademic sanctions from the Honor Code as well as academic sanctions from the faculty member. Additional information regarding the Honor Code academic integrity policy can be found at the [Honor Code Office](https://www.colorado.edu/sccr/honor-code) website.
+
+#### Sexual Misconduct, Discrimination, Harassment and/or Related Retaliation
+
+The University of Colorado Boulder (CU Boulder) is committed to fostering an inclusive and welcoming learning, working, and living environment. CU Boulder will not tolerate acts of sexual misconduct (harassment, exploitation, and assault), intimate partner violence (dating or domestic violence), stalking, or protected-class discrimination or harassment by members of our community. Individuals who believe they have been subject to misconduct or retaliatory actions for reporting a concern should contact the Office of Institutional Equity and Compliance (OIEC) at 303-492-2127 or cureport@colorado.edu. Information about the OIEC, university policies, [anonymous reporting](https://cuboulder.qualtrics.com/jfe/form/SV_0PnqVK4kkIJIZnf), and the campus resources can be found on the [OIEC website](https://www.colorado.edu/oiec/).
+
+Please know that faculty and graduate instructors have a responsibility to inform OIEC when made aware of incidents of sexual misconduct, dating and domestic violence, stalking, discrimination, harassment and/or related retaliation, to ensure that individuals impacted receive information about options for reporting and support resources. To learn more about reporting and support options for a variety of concerns, visit [Don’t Ignore It](https://www.colorado.edu/dontignoreit/).
+
+#### Religious Holidays
+
+Campus policy regarding religious observances requires that faculty make every effort to deal reasonably and fairly with all students who, because of religious obligations, have conflicts with scheduled exams, assignments or required attendance. In this class, please let me know of upcoming religious holidays at least two weeks ahead of time if you will need an accommodation. See the [campus policy regarding religious observances](https://www.colorado.edu/policies/observance-religious-holidays-absences-classes-or-exams) for full details.
+
+
+
+
