@@ -43,12 +43,12 @@ Students should also be comfortable with at least one programming language.
 ### Course Schedule
 
 **Week 1: Introduction**
-- _Tue. Aug 29_: Introduction and logistics, review of relevant NLP/ML concepts </td>
-- _Thu. Aug 31_: Review of relevant NLP/ML concepts (continued) </td>
+- _Tue. Aug 29_: Introduction and logistics, review of relevant NLP/ML concepts 
+- _Thu. Aug 31_: Review of relevant NLP/ML concepts (continued) 
 
 **Week 2: Modularity and Decomposability**
 - _Tue. Sep 5_: [A Decomposable Attention Model for Natural Language Inference](https://aclanthology.org/D16-1244.pdf) (Parikh et al, EMNLP 2016)
-- _Thu. Sep 7_: [Learning to Compose Neural Networks for Question Answering](https://aclanthology.org/N16-1181.pdf) (Andreas et al, NAACL 2016) </td>
+- _Thu. Sep 7_: [Learning to Compose Neural Networks for Question Answering](https://aclanthology.org/N16-1181.pdf) (Andreas et al, NAACL 2016) 
 
 **Week 3: Node and Graph Embeddings**
 - _Tue. Sep 12_: [Embedding Text in Hyperbolic Spaces](https://aclanthology.org/W18-1708.pdf) (Dhingra et al, TextGraphs 2018)
@@ -56,7 +56,7 @@ Students should also be comfortable with at least one programming language.
 
 **Week 4: Augmenting NNets with Logic**
 - _Tue. Sep 19_: [Harnessing Deep Neural Networks with Logic Rules](https://aclanthology.org/P16-1228.pdf) (Hu et al, ACL 2016). **Quiz 1 at the end of the class (Weeks 2-3)**
-- _Thu. Sep 21_: [Augmenting Neural Networks with First-order Logic](https://aclanthology.org/P19-1028v2.pdf) (Li and Srikumar, ACL 2019) </td>
+- _Thu. Sep 21_: [Augmenting Neural Networks with First-order Logic](https://aclanthology.org/P19-1028v2.pdf) (Li and Srikumar, ACL 2019)
 
 **Week 5: Logic-based Loss Design**
 - _Tue. Sep 26_: [A Logic-Driven Framework for Consistency of Neural Models](https://aclanthology.org/D19-1405.pdf) (Li et al, EMNLP 2019)
