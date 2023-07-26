@@ -187,18 +187,16 @@ The proposal should be no longer than 2 pages (minus references) and include the
       2. _Motivation & Limitations of existing work_: Have others tried to solve the same task or answer a similar research question? What are you/they trying to do differently and why? What were the limitations or shortcomings of prior work?<br>
       3. _Likely challenges and mitigations_: What is hard about this task / research question? What are your contingency plans if the reproduction turns out to be harder than expected or experiments do not go as planned?
    3. **Related Work Section**: Include 3-4 sentence descriptions of no less than 4 papers directly relevant to the proposed research. Also mention how the paper you are working on differs from these.
-
-
--  **Mid-Point Project Report**: A mid-point project summary is due on Sun. Oct 29 at midnight (Week 9). This summary is worth 10% of your overall grade. The report should be no longer than 4 pages (minus references) and it should include the following sections:
+<br>
+-  **Mid-Point Project Report**: A mid-point project summary is due on **Sun. Oct 29 at midnight (Week 9)**. This summary is worth 10% of your overall grade. The report should be no longer than 4 pages (minus references) and it should include the following sections:
      1. **Title**: Can include any revisions to your previous title.
      2. **Introduction**: Can include any revisions to your previous introduction.
      4. **Methodology Section**: For research projects, this section should describe the envisioned approach/methodology. For reproduction projects, this summary should include a road map for the reproduction study. i.e., a detailed description of which methods you are going to re-implement from scratch and what existing resources you are re-using (if any). 
      5. **Experimental Section**: a description of the experimental setup and any preliminary results obtained.
-
-
+<br>
 - **Final Project Presentation**: In Weeks 15 and 16, each team will deliver a presentation of their project. The presentation will be about 20 minutes + 5 minutes for Q&A. The presentation is worth 10% of your total grade.
 
-- **Final Report**: A final report is due on Sun. Dec 20 at midnight. This report should be no longer than 8 pages (minus references) and it is worth 10% of your overall grade. Your final project report should be built upon your proposal and project summary. Feel free to
+- **Final Report**: A final report is due on **Tue. Dec 18 at midnight**. This report should be no longer than 8 pages (minus references) and it is worth 10% of your overall grade. Your final project report should be built upon your proposal and project summary. Feel free to
 reuse sections from those two reports in your final report. You may include an appendix beyond 8 pages, but your paper must be understandable without it. Submissions should be in the ACL format. Your final report should be structured like a conference paper. It should contain:
   1. Title
   2. Abstract
@@ -215,7 +213,7 @@ Please include a link to your code in your final report. Please also add a READM
 - Project proposal due on Sun. Sep 31 at midnight (Week 5)
 - Mid-point project report due on Sun. Oct 29 at midnight (Week 9)
 - Paper presentations in class on Weeks 15 and 16
-- Final project report due on Wed. Dec 20 at midnight (Week 17)
+- Final project report due on Tue. Dec 19 at midnight (Week 17)
 
 #### Quizzes
 
@@ -244,7 +242,7 @@ CU Boulder recognizes that students’ legal information doesn’t always align 
 
 #### Honor Code
 
-All students enrolled in a University of Colorado Boulder course are responsible for knowing and adhering to the Honor Code. Violations of the policy may include: plagiarism, cheating, fabrication, lying, bribery, threat, unauthorized access to academic materials, clicker fraud, submitting the same or similar work in more than one course without permission from all course instructors involved, and aiding academic dishonesty. If you have read this far into the syllabus, well done! Send me a picture or video of the coolest animal (your opinion) for a small bump to your grade. All incidents of academic misconduct will be reported to the Honor Code (honor@colorado.edu); 303-492-5550). Students found responsible for violating the academic integrity policy will be subject to nonacademic sanctions from the Honor Code as well as academic sanctions from the faculty member. Additional information regarding the Honor Code academic integrity policy can be found at the [Honor Code Office](https://www.colorado.edu/sccr/honor-code) website.
+All students enrolled in a University of Colorado Boulder course are responsible for knowing and adhering to the Honor Code. Violations of the policy may include: plagiarism, cheating, fabrication, lying, bribery, threat, unauthorized access to academic materials, clicker fraud, submitting the same or similar work in more than one course without permission from all course instructors involved, and aiding academic dishonesty. If you have read this far into the syllabus, well done! Send me a link to your favorite song or video for a small bump to your grade. All incidents of academic misconduct will be reported to the Honor Code (honor@colorado.edu); 303-492-5550). Students found responsible for violating the academic integrity policy will be subject to nonacademic sanctions from the Honor Code as well as academic sanctions from the faculty member. Additional information regarding the Honor Code academic integrity policy can be found at the [Honor Code Office](https://www.colorado.edu/sccr/honor-code) website.
 
 #### Sexual Misconduct, Discrimination, Harassment and/or Related Retaliation
 
