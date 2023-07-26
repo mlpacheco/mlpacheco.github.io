@@ -29,8 +29,7 @@ and carry out a research project or a paper reproduction project related to neur
 
 ### Pre-requisites
 
-This class assumes that students have taken a graduate-level AI/Machine Learning/NLP class or have acquired equivalent experience. 
-Students should also be comfortable with at least one programming language.
+This is an advanced research class and assumes that students have taken a graduate-level AI/Machine Learning/NLP class or have acquired equivalent experience. Students should also be comfortable with at least one programming language.
 
 ### Grading
 
@@ -173,6 +172,8 @@ on the relevance, novelty, feasibility, and significance of the ideas. Students 
 ##### 2) Paper Reproduction Projects 
 
 Students can select an existing, published, experimental paper and carry out a reproduction study. The paper does not need to be from the class reading list, as long as it is relevant to the topics covered in this class. The objective is to assess if the experiments are reproducible, and to determine if the conclusions of the paper are supported by your findings. Your results can be either positive (i.e. confirm reproducibility), or negative (i.e. explain what you were unable to reproduce, and potentially explain why). I suggest that you first attempt to reimplement the experiments of the paper from scratch. Using any published code is allowed, as long as this is clear in your report. I recommend that you focus on the central claim of the paper. Note that exact reproducibility is in most cases very difficult due to minor implementation details, results that are close to those in the original paper are enough for a positive conclusion. You do not need to reproduce all experiments in your selected paper, but only those that you feel are sufficient for you to verify the validity of the central claim. 
+
+I recommend that you give yourself enough time to read the paper and prepare your presentation. If you encounter any difficulties understanding the technical content of the paper, please attend office hours for help. 
 
 **Just re-running code is not a reproducibility study**, and you need to approach any code with critical thinking and verify it does what is described in the paper and that these are sufficient to support the conclusions of the paper. I suggest that you take a look at the [ML Reproducibility Challenge](https://paperswithcode.com/rc2022) for guidelines and resources on how to carry out good reproducility research. Between Week 1 and Week 5, students should make sure to stop by
 during office hours to get early feedback on their paper choice. 
