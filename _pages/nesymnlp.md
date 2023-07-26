@@ -108,7 +108,7 @@ Students should also be comfortable with at least one programming language.
 - _Tue. Dec 12_: Final Project Presentations
 - _Thu. Dec 14_: Final Project Presentations
 
-**Week 17: Final Project Report due on Wed. Dec 20 at midnight**
+**Week 17: Final Project Report due on Tue. Dec 19 at midnight**
 
 ### Assignments in More Detail
 
@@ -225,7 +225,6 @@ date unless there are extenuating circumstances.
 #### Late Submission Policy
 - All paper review comments must be submitted by 9 AM before the class. No late submission is allowed.
 - For the course project proposal, mid-point project summary, and final project report, late submissions will be accepted with 20% decaying credit per day.
-- Grades are due on Dec 24, final reports received after Dec 23 will receive a 0 unless there are extenuating circumstances.
 
 ### University Policies
 
