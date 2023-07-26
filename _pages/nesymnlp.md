@@ -100,7 +100,7 @@ This is an advanced research class and assumes that students have taken a gradua
 - _Thu. Nov 30_: [Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think” Step-by-Step](https://aclanthology.org/2023.acl-long.150/) (Li et al, ACL 2023)
 
 **Week 15: Final Project Presentations**
-- _Tue. Dec 5_: Final Project Presentations
+- _Tue. Dec 5_: Final Project Presentations. **Quiz 5 at the end of the class (Weeks 11-14)**
 - _Thu. Dec 7_: Final Project Presentations
 
 **Week 16: Final Project Presentations**
