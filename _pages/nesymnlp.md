@@ -50,7 +50,7 @@ This is an advanced research class and assumes that students have taken a gradua
 - _Thu. Sep 7_: [Learning to Compose Neural Networks for Question Answering](https://aclanthology.org/N16-1181.pdf) (Andreas et al, NAACL 2016) 
 
 **Week 3: Node and Graph Embeddings**
-- _Tue. Sep 12_: [Embedding Text in Hyperbolic Spaces](https://aclanthology.org/W18-1708.pdf) (Dhingra et al, TextGraphs 2018)
+- _Tue. Sep 12_: [WordNet Embeddings](https://aclanthology.org/W18-3016.pdf) (Saedi et al, Representation Learning for NLP 2018)
 - _Thu. Sep 14_: [Weakly-Supervised Modeling of Contextualized Event Embedding for Discourse Relations](https://aclanthology.org/2020.findings-emnlp.446.pdf) (Lee et al, Findings of ACL 2020)
 
 **Week 4: Augmenting NNets with Logic**
