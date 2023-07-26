@@ -188,11 +188,13 @@ The proposal should be no longer than 2 pages (minus references) and include the
       3. _Likely challenges and mitigations_: What is hard about this task / research question? What are your contingency plans if the reproduction turns out to be harder than expected or experiments do not go as planned?
    3. **Related Work Section**: Include 3-4 sentence descriptions of no less than 4 papers directly relevant to the proposed research. Also mention how the paper you are working on differs from these.
 
+
 -  **Mid-Point Project Report**: A mid-point project summary is due on Sun. Oct 29 at midnight (Week 9). This summary is worth 10% of your overall grade. The report should be no longer than 4 pages (minus references) and it should include the following sections:
      1. **Title**: Can include any revisions to your previous title.
      2. **Introduction**: Can include any revisions to your previous introduction.
      4. **Methodology Section**: For research projects, this section should describe the envisioned approach/methodology. For reproduction projects, this summary should include a road map for the reproduction study. i.e., a detailed description of which methods you are going to re-implement from scratch and what existing resources you are re-using (if any). 
      5. **Experimental Section**: a description of the experimental setup and any preliminary results obtained.
+
 
 - **Final Project Presentation**: In Weeks 15 and 16, each team will deliver a presentation of their project. The presentation will be about 20 minutes + 5 minutes for Q&A. The presentation is worth 10% of your total grade.
 
