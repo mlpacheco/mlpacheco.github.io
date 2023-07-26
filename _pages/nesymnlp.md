@@ -120,12 +120,10 @@ grading of the paper review will depend on the overall quality of the
 questions and/or comments. As you read a paper and write your review, focus on the
 following perspectives:
 
-- **Motivation of the work:** What are the research questions this study paper to answer? How important is the problem that the paper aims to address? 
-Who will care about the findings and why should they care?
+- **Motivation of the work:** What are the research questions that this paper tries to answer? How important is the problem that the paper aims to address? Who will care about the findings and why should they care?
 - **Novelty and significance of the work:** What was new at the time of publication? What are the main contributions of the paper? 
 What did you find most interesting?
-- **Limitations, flaws, and blind spots:** Is the research question ill defined? Does the paper fail to deliver on its promise? Are there any unrealistic or false
-assumptions about the goal or target domain? Are there flaws or mistakes in the technical approach or experimental design?
+- **Limitations, flaws, and blind spots:** Is the research question ill defined? Does the paper fail to deliver on its promise? Are there any unrealistic or false assumptions about the goal or target domain? Are there flaws or mistakes in the technical approach or experimental design?
 - **Future work:** How would you improve on this work? Does this paper inspire any new ideas in your own research?
 
 **Reviews are due at 9 am before the class, no late submissions allowed.**
@@ -138,8 +136,7 @@ will present any unselected papers during the course.
 Each paper presentation should take no more than 40 minutes, so that we can have enough
 time for discussion. The presentation should elaborate on the motivation, related
 work, research questions, methodology/experimental design, findings, limitations, and future work stated in the
-paper. To make your presentation more insightful, try to position the paper contribution with respect to the related literature and tell the audience why this work was proposed in
-the first place, how it advances our understanding about the topic, and how it is
+paper. To make your presentation more insightful, try to position the paper contribution with respect to the related literature and tell the audience why this work was proposed in the first place, how it advances our understanding about the topic, and how it is
 different from other related work in the past. You are also encouraged to connect the
 assigned paper to your own research. You should prepare a set of questions (either
 written by yourself or based on questions other students post on Piazza) and co-lead
@@ -188,13 +185,13 @@ The proposal should be no longer than 2 pages (minus references) and include the
       2. _Motivation & Limitations of existing work_: Have others tried to solve the same task or answer a similar research question? What are you/they trying to do differently and why? What were the limitations or shortcomings of prior work?<br>
       3. _Likely challenges and mitigations_: What is hard about this task / research question? What are your contingency plans if the reproduction turns out to be harder than expected or experiments do not go as planned?
    3. **Related Work Section**: Include 3-4 sentence descriptions of no less than 4 papers directly relevant to the proposed research. Also mention how the paper you are working on differs from these.
-<br>
+<br><br>
 -  **Mid-Point Project Report**: A mid-point project summary is due on **Sun. Oct 29 at midnight (Week 9)**. This summary is worth 10% of your overall grade. The report should be no longer than 4 pages (minus references) and it should include the following sections:
      1. **Title**: Can include any revisions to your previous title.
      2. **Introduction**: Can include any revisions to your previous introduction.
      4. **Methodology Section**: For research projects, this section should describe the envisioned approach/methodology. For reproduction projects, this summary should include a road map for the reproduction study. i.e., a detailed description of which methods you are going to re-implement from scratch and what existing resources you are re-using (if any). 
      5. **Experimental Section**: a description of the experimental setup and any preliminary results obtained.
-<br>
+<br><br>
 - **Final Project Presentation**: In Weeks 15 and 16, each team will deliver a presentation of their project. The presentation will be about 20 minutes + 5 minutes for Q&A. The presentation is worth 10% of your total grade.
 
 - **Final Report**: A final report is due on **Tue. Dec 18 at midnight**. This report should be no longer than 8 pages (minus references) and it is worth 10% of your overall grade. Your final project report should be built upon your proposal and project summary. Feel free to
