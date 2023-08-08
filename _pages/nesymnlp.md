@@ -24,7 +24,7 @@ from which students can go on to do research in these areas.
 
 The bulk of the class will be dedicated to paper reading, presentations and discussion.
 Each student should expect to present one research paper during the semester. Students will also need to write a short paper review (1 or 2 paragraphs) in
-the form of comments and questions and post it on Piazza before each paper discussion. There will be a course project, in which students will work in groups to design
+the form of comments and questions and post it on Canvas before each paper discussion. There will be a course project, in which students will work in groups to design
 and carry out a research project or a paper reproduction project related to neuro-symbolic NLP.
 
 ### Pre-requisites
@@ -60,7 +60,7 @@ This is an advanced research class and assumes that students have taken a gradua
 **Week 5: Logic-based Loss Design**
 - _Tue. Sep 26_: [A Logic-Driven Framework for Consistency of Neural Models](https://aclanthology.org/D19-1405.pdf) (Li et al, EMNLP 2019)
 - _Thu. Sep 28_: [Structured Tuning for Semantic Role Labeling](https://aclanthology.org/2020.acl-main.744.pdf) (Li et al, ACL 2020) 
-- _Sun. Sep 31_: **Project Proposal due on Sun. 9/31 at midnight**
+- _Sun. Oct 1_: **Project Proposal due on Sun. 1/1 at midnight**
 
 **Week 6: Deep Structured Learning and Prediction**
 - _Tue. Oct 3_: [Globally Normalized Transition-Based Neural Networks](https://aclanthology.org/P16-1231.pdf) (Andor et al, ACL 2016). **Quiz 2 at the end of the class (Weeks 4-5)**
@@ -139,7 +139,7 @@ work, research questions, methodology/experimental design, findings, limitations
 paper. To make your presentation more insightful, try to position the paper contribution with respect to the related literature and tell the audience why this work was proposed in the first place, how it advances our understanding about the topic, and how it is
 different from other related work in the past. You are also encouraged to connect the
 assigned paper to your own research. You should prepare a set of questions (either
-written by yourself or based on questions other students post on Piazza) and co-lead
+written by yourself or based on questions other students post on Canvas) and co-lead
 an in-class discussion with the instructor after the presentation.
 
 I recommend that you give yourself enough time to read the paper and prepare your presentation. If you encounter any difficulties understanding the technical content of the paper, please attend office hours for help. 
@@ -208,7 +208,7 @@ reuse sections from those two reports in your final report. You may include an a
 Please include a link to your code in your final report. Please also add a README file in your repository to describe how to run and test your code.
 
 ##### Important dates:
-- Project proposal due on Sun. Sep 31 at midnight (Week 5)
+- Project proposal due on Sun. Oct 1 at midnight (Week 5)
 - Mid-point project report due on Sun. Oct 29 at midnight (Week 9)
 - Paper presentations in class on Weeks 15 and 16
 - Final project report due on Tue. Dec 19 at midnight (Week 17)
