@@ -43,7 +43,7 @@ This is an advanced research class and assumes that students have taken a gradua
 
 **Week 1: Introduction**
 - _Tue. Aug 29_: Introduction and logistics, review of relevant NLP/ML concepts 
-- _Thu. Aug 31_: Review of relevant NLP/ML concepts (continued) 
+- _Thu. Aug 31_: Tutorial on Research Computing GPU resources at CU by OIT team
 
 **Week 2: Modularity and Decomposability**
 - _Tue. Sep 5_: [A Decomposable Attention Model for Natural Language Inference](https://aclanthology.org/D16-1244.pdf) (Parikh et al, EMNLP 2016)
@@ -115,7 +115,7 @@ This is an advanced research class and assumes that students have taken a gradua
 
 For each lecture, students should expect to read one research paper on a specific topic in
 Neuro-Symbolic NLP. For each required paper reading, students need to submit a short paper review (1 or 2
-paragraphs) in the form of questions or comments on Piazza before the class. The
+paragraphs) in the form of questions or comments on Canvas before the class. The
 grading of the paper review will depend on the overall quality of the
 questions and/or comments. As you read a paper and write your review, focus on the
 following perspectives:
@@ -147,7 +147,7 @@ I recommend that you give yourself enough time to read the paper and prepare you
 #### In-Class Discussions
 
 The in-class discussion will follow the think-pair-share format.
-- **Think**. The presentor or the instructor will provoke students' thinking with a
+- **Think**. The presenter or the instructor will provoke students' thinking with a
 question. The students should take one or two minutes just to THINK about the
 question.
 - **Pair**. Using designated partners (such as with Clock Buddies), nearby
@@ -166,18 +166,18 @@ students in a group). There are two options for projects:
 
 Students can pick any topic related to NLP as long as they incorporate at least one symbolic and one distributed component in the method design. Between Week 1 and Week 5, students should make sure to stop by
 during office hours to discuss project ideas with the instructor and get early feedback
-on the relevance, novelty, feasibility, and significance of the ideas. Students are encouraged to use this class to advance their own research, so it is perfectably acceptable to present ongoing individual research work as part of the course project as long as it is relevant to the class.
+on the relevance, novelty, feasibility, and significance of the ideas. Students are encouraged to use this class to advance their own research, so it is perfectly acceptable to present ongoing individual research work as part of the course project as long as it is relevant to the class.
 
 ##### 2) Paper Reproduction Projects 
 
 Students can select an existing, published, experimental paper and carry out a reproduction study. The paper does not need to be from the class reading list, as long as it is relevant to the topics covered in this class. The objective is to assess if the experiments are reproducible, and to determine if the conclusions of the paper are supported by your findings. Your results can be either positive (i.e. confirm reproducibility), or negative (i.e. explain what you were unable to reproduce, and potentially explain why). I suggest that you first attempt to reimplement the experiments of the paper from scratch. Using any published code is allowed, as long as this is clear in your report. I recommend that you focus on the central claim of the paper. Note that exact reproducibility is in most cases very difficult due to minor implementation details, results that are close to those in the original paper are enough for a positive conclusion. You do not need to reproduce all experiments in your selected paper, but only those that you feel are sufficient for you to verify the validity of the central claim. 
 
-**Just re-running code is not a reproducibility study**, and you need to approach any code with critical thinking and verify it does what is described in the paper and that these are sufficient to support the conclusions of the paper. I suggest that you take a look at the [ML Reproducibility Challenge](https://paperswithcode.com/rc2022) for guidelines and resources on how to carry out good reproducility research. Between Week 1 and Week 5, students should make sure to stop by
+**Just re-running code is not a reproducibility study**, and you need to approach any code with critical thinking and verify it does what is described in the paper and that these are sufficient to support the conclusions of the paper. I suggest that you take a look at the [ML Reproducibility Challenge](https://paperswithcode.com/rc2022) for guidelines and resources on how to carry out good reproducibility research. Between Week 1 and Week 5, students should make sure to stop by
 during office hours to get early feedback on their paper choice. 
 
 ##### Course Project Grading: 
 
-- **Project Proposal**: A short project proposal is due on **Sun. Sep 31 at midnight (Week 5)**. This proposal is worth 5% of your overall grade. 
+- **Project Proposal**: A short project proposal is due on **Sun. Oct 1 at midnight (Week 5)**. This proposal is worth 5% of your overall grade. 
 The proposal should be no longer than 2 pages (minus references) and include the following sections:
    1. **Title** for your project (this can also change later on).
    2. **Introduction** section, which should explain the context of the paper. It should contain the following information:<br>
