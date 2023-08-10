@@ -9,7 +9,7 @@ permalink: /teaching/nesymnlp
 ## CSCI 7000: Neuro-Symbolic Approaches to NLP
 
 **Instructor**: Maria L. Pacheco<br>
-**Class times**: Tue/Thu 11:00-12:15 am<br>
+**Class times**: Tue/Thu 11:00 am-12:15 pm<br>
 **Class location:** ECCR 1B55<br>
 **Office hours:** TBD
 
