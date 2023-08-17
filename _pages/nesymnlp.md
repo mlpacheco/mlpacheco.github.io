@@ -11,7 +11,10 @@ permalink: /teaching/nesymnlp
 **Instructor**: Maria L. Pacheco<br>
 **Class times**: Tue/Thu 11:00 am-12:15 pm<br>
 **Class location:** ECCR 1B55<br>
-**Office hours:** TBD
+**Office hours:** 
+- Location: ECOT 822
+- Thursdays before class: 9:30 to 10:45 am, no appointment needed
+- By appointment: https://mlpacheco.youcanbook.me/
 
 ### Course Description and Learning Objectives
 
@@ -226,29 +229,49 @@ date unless there are extenuating circumstances.
 
 ### University Policies
 
-#### University Code of Conduct
+#### Classroom Behavior
 
-Both students and faculty are responsible for maintaining an appropriate learning environment in all instructional settings, whether in person, remote or online. Those who fail to adhere to such behavioral standards may be subject to discipline. Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with race, color, national origin, sex, pregnancy, age, disability, creed, religion, sexual orientation, gender identity, gender expression, veteran status, political affiliation or political philosophy. For more information, see the policies on [classroom behavior](https://www.colorado.edu/policies/student-classroom-course-related-behavior) and the [Student Code of Conduct](https://www.colorado.edu/sccr/student-conduct).
+Students and faculty are responsible for maintaining an appropriate learning environment in all instructional settings, whether in person, remote, or online. Failure to adhere to such behavioral standards may be subject to discipline. Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with race, color, national origin, sex, pregnancy, age, disability, creed, religion, sexual orientation, gender identity, gender expression, veteran status, political affiliation, or political philosophy.
 
-#### Accommodation for Disabilities
+For more information, see the [classroom behavior policy](https://www.colorado.edu/policies/student-classroom-course-related-behavior), the [Student Code of Conduct](https://www.colorado.edu/sccr/student-conduct), and the [Office of Institutional Equity and Compliance](https://www.colorado.edu/oiec/).
 
-If you qualify for accommodations because of a disability, please submit your accommodation letter from Disability Services to your faculty member in a timely manner so that your needs can be addressed. Disability Services determines accommodations based on documented disabilities in the academic environment. Information on requesting accommodations is located on the [Disability Services](https://www.colorado.edu/disabilityservices/) website. Contact Disability Services at 303-492-8671 or dsinfo@colorado.edu for further assistance. If you have a temporary medical condition, see [Temporary Medical Conditions](https://www.colorado.edu/disabilityservices/students/temporary-medical-conditions) on the Disability Services website.
+#### Requirements for Infectious Diseases 
+
+Members of the CU Boulder community and visitors to campus must follow university, department, and building health and safety requirements and all public health orders to reduce the risk of spreading infectious diseases.
+
+The CU Boulder campus is currently mask optional. However, if masks are again required in classrooms, students who fail to adhere to masking requirements will be asked to leave class. Students who do not leave class when asked or who refuse to comply with these requirements will be referred to Student Conduct & Conflict Resolution. Students who require accommodation because a disability prevents them from fulfilling safety measures related to infectious disease will be asked to follow the steps in the “Accommodation for Disabilities” statement on this syllabus.
+
+For those who feel ill and think you might have COVID-19 or if you have tested positive for COVID-19, please stay home and follow the [further guidance of the Public Health Office](https://www.colorado.edu/healthcenter/coronavirus-updates/symptoms-and-what-do-if-you-feel-sick). For those who have been in close contact with someone who has COVID-19 but do not have any symptoms and have not tested positive for COVID-19, you do not need to stay home.
+
+#### Accommodation for Disabilities, Temporary Medical Conditions, and Medical Isolation 
+
+[Disability Services](https://www.colorado.edu/disabilityservices/) determines accommodations based on documented disabilities in the academic environment. If you qualify for accommodations because of a disability, submit your accommodation letter from Disability Services to your faculty member in a timely manner so your needs can be addressed. Contact Disability Services at 303-492-8671 or dsinfo@colorado.edu for further assistance. 
+
+If you have a temporary medical condition or required medical isolation for which you require accommodation, please get in touch with the instructor as soon as possible. Also see [Temporary Medical Conditions](https://www.colorado.edu/disabilityservices/students/temporary-medical-conditions) on the Disability Services website.
 
 #### Preferred Student Names and Pronouns
 
-CU Boulder recognizes that students’ legal information doesn’t always align with how they identify. Students may update their preferred names and pronouns via the student portal; those preferred names and pronouns are listed on instructors’ class rosters. In the absence of such updates, the name that appears on the class roster is the student’s legal name.
+CU Boulder recognizes that students' legal information doesn't always align with how they identify. Students may update their preferred names and pronouns via the student portal; those preferred names and pronouns are listed on instructors' class rosters. In the absence of such updates, the name that appears on the class roster is the student's legal name.
 
 #### Honor Code
 
-All students enrolled in a University of Colorado Boulder course are responsible for knowing and adhering to the Honor Code. Violations of the policy may include: plagiarism, cheating, fabrication, lying, bribery, threat, unauthorized access to academic materials, clicker fraud, submitting the same or similar work in more than one course without permission from all course instructors involved, and aiding academic dishonesty. If you have read this far into the syllabus, well done! Send me a link to your favorite song or video for a small bump to your grade. All incidents of academic misconduct will be reported to the Honor Code (honor@colorado.edu); 303-492-5550). Students found responsible for violating the academic integrity policy will be subject to nonacademic sanctions from the Honor Code as well as academic sanctions from the faculty member. Additional information regarding the Honor Code academic integrity policy can be found at the [Honor Code Office](https://www.colorado.edu/sccr/honor-code) website.
+All students enrolled in a University of Colorado Boulder course are responsible for knowing and adhering to the [Honor Code](https://www.colorado.edu/sccr/honor-code). Violations of the Honor Code may include but are not limited to: plagiarism (including use of paper writing services or technology [such as essay bots]), cheating, fabrication, lying, bribery, threat, unauthorized access to academic materials, clicker fraud, submitting the same or similar work in more than one course without permission from all course instructors involved, and aiding academic dishonesty. 
+
+All incidents of academic misconduct will be reported to Student Conduct & Conflict Resolution: honor@colorado.edu, 303-492-5550. If you have read this far into the syllabus, well done! Send me a link to your favorite song or video for a small bump to your grade. Students found responsible for violating the Honor Code will be assigned resolution outcomes from the Student Conduct & Conflict Resolution as well as be subject to academic sanctions from the faculty member. Visit Honor Code for more information on the academic integrity policy.
 
 #### Sexual Misconduct, Discrimination, Harassment and/or Related Retaliation
 
-The University of Colorado Boulder (CU Boulder) is committed to fostering an inclusive and welcoming learning, working, and living environment. CU Boulder will not tolerate acts of sexual misconduct (harassment, exploitation, and assault), intimate partner violence (dating or domestic violence), stalking, or protected-class discrimination or harassment by members of our community. Individuals who believe they have been subject to misconduct or retaliatory actions for reporting a concern should contact the Office of Institutional Equity and Compliance (OIEC) at 303-492-2127 or cureport@colorado.edu. Information about the OIEC, university policies, [anonymous reporting](https://cuboulder.qualtrics.com/jfe/form/SV_0PnqVK4kkIJIZnf), and the campus resources can be found on the [OIEC website](https://www.colorado.edu/oiec/).
+CU Boulder is committed to fostering an inclusive and welcoming learning, working, and living environment. University policy prohibits [protected-class](https://www.colorado.edu/oiec/policies/discrimination-harassment-policy/protected-class-definitions) discrimination and harassment, sexual misconduct (harassment, exploitation, and assault), intimate partner violence (dating or domestic violence), stalking, and related retaliation by or against members of our community on- and off-campus. These behaviors harm individuals and our community. The Office of Institutional Equity and Compliance (OIEC) addresses these concerns, and individuals who believe they have been subjected to misconduct can contact OIEC at 303-492-2127 or email cureport@colorado.edu. Information about university policies, [reporting options](https://www.colorado.edu/oiec/reporting-resolutions/making-report), and support resources can be found on the [OIEC website](https://www.colorado.edu/oiec/reporting-resolutions/making-report).
 
-Please know that faculty and graduate instructors have a responsibility to inform OIEC when made aware of incidents of sexual misconduct, dating and domestic violence, stalking, discrimination, harassment and/or related retaliation, to ensure that individuals impacted receive information about options for reporting and support resources. To learn more about reporting and support options for a variety of concerns, visit [Don’t Ignore It](https://www.colorado.edu/dontignoreit/).
+Please know that faculty and graduate instructors have a responsibility to inform OIEC when they are made aware of incidents related to these policies regardless of when or where something occurred. This is to ensure that individuals impacted receive an outreach from OIEC about their options for addressing a concern and the support resources available. To learn more about reporting and support resources for a variety of issues, visit [Don’t Ignore It](https://www.colorado.edu/dontignoreit/).
 
 #### Religious Holidays
 
 Campus policy regarding religious observances requires that faculty make every effort to deal reasonably and fairly with all students who, because of religious obligations, have conflicts with scheduled exams, assignments or required attendance. In this class, please let me know of upcoming religious holidays at least two weeks ahead of time if you will need an accommodation. See the [campus policy regarding religious observances](https://www.colorado.edu/policies/observance-religious-holidays-absences-classes-or-exams) for full details.
+
+#### Mental Health and Wellness
+
+The University of Colorado Boulder is committed to the well-being of all students. If you are struggling with personal stressors, mental health or substance use concerns that are impacting academic or daily life, please contact [Counseling and Psychiatric Services (CAPS)](https://www.colorado.edu/counseling/) located in C4C or call (303) 492-2277, 24/7. 
+
+Free and unlimited telehealth is also available through Academic Live Care. The [Academic Live Care](https://www.colorado.edu/health/academiclivecare) site also provides information about additional wellness services on campus that are available to students.
 
