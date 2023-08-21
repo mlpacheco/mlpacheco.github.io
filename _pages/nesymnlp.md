@@ -65,49 +65,49 @@ This is an advanced research class and assumes that students have taken a gradua
 - _Thu. Sep 28_: [Structured Tuning for Semantic Role Labeling](https://aclanthology.org/2020.acl-main.744.pdf) (Li et al, ACL 2020) 
 - _Sun. Oct 1_: **Project Proposal due on Sun. 1/1 at midnight**
 
-**Week 6: Deep Structured Learning and Prediction**
-- _Tue. Oct 3_: [Globally Normalized Transition-Based Neural Networks](https://aclanthology.org/P16-1231.pdf) (Andor et al, ACL 2016). **Quiz 2 at the end of the class (Weeks 4-5)**
-- _Thu. Oct 5_: [Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction](https://aclanthology.org/D19-1041.pdf) (Han et al, EMNLP 2019)
+**Week 6: Structured Learning and Prediction**
+- _Tue. Oct 3_: [A Linear Programming Formulation for Global Inference in Natural Language Tasks](https://aclanthology.org/W04-2401.pdf) (Roth and Yi, 2004) **Quiz 2 at the end of the class (Weeks 4-5)**
+- _Thu. Oct 5_: [Understanding Satirical Articles Using Common-Sense](https://aclanthology.org/Q16-1038.pdf) (Goldwasser and Zhang, 2016)
+  
+**Week 7: Deep Structured Learning and Prediction**
+- _Tue. Oct 10_: [Globally Normalized Transition-Based Neural Networks](https://aclanthology.org/P16-1231.pdf) (Andor et al, ACL 2016). 
+- _Thu. Oct 12_: [Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction](https://aclanthology.org/D19-1041.pdf) (Han et al, EMNLP 2019)
 
-**Week 7: Probabilistic Soft Logic**
-- _Tue. Oct 10_: [Probabilistic Soft Logic for Semantic Textual Similarity](https://aclanthology.org/P14-1114.pdf) (Beltagy et al, ACL 2014)
-- _Thu. Oct 12_: [Joint Models of Disagreement and Stance in Online Debate](https://aclanthology.org/P15-1012.pdf) (Sridhar et al, ACL 2015)
+**Week 8: Probabilistic Soft Logic**
+- _Tue. Oct 17_: [Probabilistic Soft Logic for Semantic Textual Similarity](https://aclanthology.org/P14-1114.pdf) (Beltagy et al, ACL 2014)
+- _Thu. Oct 19_: [Joint Models of Disagreement and Stance in Online Debate](https://aclanthology.org/P15-1012.pdf) (Sridhar et al, ACL 2015)
 
-**Week 8: Deep Probabilistic Logic** 
-- _Tue. Oct 17_: [Deep Probabilistic Logic: A Unifying Framework for Indirect Supervision](https://aclanthology.org/D18-1215.pdf) (Wang and Poon, EMNLP 2018)
-- _Thu. Oct 19_: [Modeling Content and Context with Deep Relational Learning](https://aclanthology.org/2021.tacl-1.7.pdf) (Pacheco and Goldwasser, TACL 2021)
-
-**Week 9: Vision + Language**
-- _Tue. Oct 24_: [Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding](https://proceedings.neurips.cc/paper_files/paper/2018/file/5e388103a391daabe3de1d76a6739ccd-Paper.pdf) (Yi et al, NeurIPS 2018). **Quiz 3 at the end of the class (Weeks 6-8)**
-- _Thu. Oct 26_: [The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://openreview.net/pdf?id=rJgMlhRctm) (Mao et al, ICLR 2019)
+**Week 9: Deep Probabilistic Logic** 
+- _Tue. Oct 24_: [Deep Probabilistic Logic: A Unifying Framework for Indirect Supervision](https://aclanthology.org/D18-1215.pdf) (Wang and Poon, EMNLP 2018)
+- _Thu. Oct 26_: [Modeling Content and Context with Deep Relational Learning](https://aclanthology.org/2021.tacl-1.7.pdf) (Pacheco and Goldwasser, TACL 2021)
 - _Sun. Oct 29_: **Mid-Point Project Report due at midnight**
 
-**Week 10: Dynamic Induction and Reasoning**
-- _Tue. Oct 31_: [NLProlog: Reasoning with Weak Unification for Question Answering in Natural Language](https://aclanthology.org/P19-1618.pdf) (Weber et al, ACL 2019)
-- _Thu. Nov 2_: [Dynamic Neuro-Symbolic Knowledge Graph Construction for Zero-shot Commonsense Question Answering](https://mlpacheco.github.io/files/Bosselut_AAAI_2021.pdf) (Bosselut et al, AAAI 2021)
+**Week 10: Vision + Language**
+- _Tue. Oct 31_: [Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding](https://proceedings.neurips.cc/paper_files/paper/2018/file/5e388103a391daabe3de1d76a6739ccd-Paper.pdf) (Yi et al, NeurIPS 2018). **Quiz 3 at the end of the class (Weeks 6-9)**
+- _Thu. Nov 2_: [The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://openreview.net/pdf?id=rJgMlhRctm) (Mao et al, ICLR 2019)
 
-**Week 11: Large Language Models - Modularity**
-- _Tue. Nov 7_: [Language Model Cascades](https://arxiv.org/pdf/2207.10342.pdf) (Dohan et al, Beyond Bayes 2022). **Quiz 4 at the end of the class (Weeks 9-10)**
-- _Thu. Nov 9_: [Decomposed Prompting: A Modular Approach for Solving Complex Tasks](https://openreview.net/pdf?id=_nGgzQjzaRy) (Khot et al, ICLR 2023)
+**Week 11: Dynamic Induction and Reasoning**
+- _Tue. Nov 7_: [NLProlog: Reasoning with Weak Unification for Question Answering in Natural Language](https://aclanthology.org/P19-1618.pdf) (Weber et al, ACL 2019)
+- _Thu. Nov 9_: [Dynamic Neuro-Symbolic Knowledge Graph Construction for Zero-shot Commonsense Question Answering](https://mlpacheco.github.io/files/Bosselut_AAAI_2021.pdf) (Bosselut et al, AAAI 2021)
 
-**Week 12: Large Language Models - Constraints**
- - _Tue. Oct 31_: [NeuroLogic A*esque Decoding: Constrained Text Generation with Lookahead Heuristics](https://aclanthology.org/2022.naacl-main.57.pdf) (Lu et al, NAACL 2022)
- - _Thu. Nov 2_: [Tractable Control for Autoregressive Language Generation](http://web.cs.ucla.edu/~hzhang19/files/tractable-control-for.pdf) (Zhang et al, ICML 2023)
+**Week 12: Large Language Models - Modularity**
+- _Tue. Nov 14_: [Language Model Cascades](https://arxiv.org/pdf/2207.10342.pdf) (Dohan et al, Beyond Bayes 2022). **Quiz 4 at the end of the class (Weeks 9-10)**
+- _Thu. Nov 16_: [Decomposed Prompting: A Modular Approach for Solving Complex Tasks](https://openreview.net/pdf?id=_nGgzQjzaRy) (Khot et al, ICLR 2023)
 
 **Week 13: Fall Break**
 - _Tue. Nov 21_: No class 
 - _Thu. Nov 22_: No class
 
-**Week 14: Large Language Models - Knowledge Distillation**
-- _Tue. Nov 28_: [Symbolic Knowledge Distillation: from General Language Models to Commonsense Models](https://aclanthology.org/2022.naacl-main.341.pdf) (West et al, NAACL 2022)
-- _Thu. Nov 30_: [Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think” Step-by-Step](https://aclanthology.org/2023.acl-long.150/) (Li et al, ACL 2023)
+**Week 14: Large Language Models - Constraints**
+ - _Tue. Nov 28_: [NeuroLogic A*esque Decoding: Constrained Text Generation with Lookahead Heuristics](https://aclanthology.org/2022.naacl-main.57.pdf) (Lu et al, NAACL 2022)
+ - _Thu. Nov 30_: [Tractable Control for Autoregressive Language Generation](http://web.cs.ucla.edu/~hzhang19/files/tractable-control-for.pdf) (Zhang et al, ICML 2023)
 
-**Week 15: Final Project Presentations**
-- _Tue. Dec 5_: Final Project Presentations. **Quiz 5 at the end of the class (Weeks 11-14)**
-- _Thu. Dec 7_: Final Project Presentations
+**Week 15: Large Language Models - Knowledge Distillation**
+- _Tue. Dec 5_: [Symbolic Knowledge Distillation: from General Language Models to Commonsense Models](https://aclanthology.org/2022.naacl-main.341.pdf) (West et al, NAACL 2022)
+- _Thu. Dec 7_: [Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think” Step-by-Step](https://aclanthology.org/2023.acl-long.150/) (Li et al, ACL 2023)
 
 **Week 16: Final Project Presentations**
-- _Tue. Dec 12_: Final Project Presentations
+- _Tue. Dec 12_: Final Project Presentations. **Quiz 4 at the end of the class (Weeks 12-15)**
 - _Thu. Dec 14_: Final Project Presentations
 
 **Week 17: Final Project Report due on Tue. Dec 19 at midnight**
