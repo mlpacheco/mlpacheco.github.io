@@ -66,8 +66,8 @@ This is an advanced research class and assumes that students have taken a gradua
 - _Sun. Oct 1_: **Project Proposal due on Sun. 1/1 at midnight**
 
 **Week 6: Structured Learning and Prediction**
-- _Tue. Oct 3_: [A Linear Programming Formulation for Global Inference in Natural Language Tasks](https://aclanthology.org/W04-2401.pdf) (Roth and Yi, 2004) **Quiz 2 at the end of the class (Weeks 4-5)**
-- _Thu. Oct 5_: [Understanding Satirical Articles Using Common-Sense](https://aclanthology.org/Q16-1038.pdf) (Goldwasser and Zhang, 2016)
+- _Tue. Oct 3_: [A Linear Programming Formulation for Global Inference in Natural Language Tasks](https://aclanthology.org/W04-2401.pdf) (Roth and Yi, CoNLL 2004) **Quiz 2 at the end of the class (Weeks 4-5)**
+- _Thu. Oct 5_: [Understanding Satirical Articles Using Common-Sense](https://aclanthology.org/Q16-1038.pdf) (Goldwasser and Zhang, TACL 2016)
   
 **Week 7: Deep Structured Learning and Prediction**
 - _Tue. Oct 10_: [Globally Normalized Transition-Based Neural Networks](https://aclanthology.org/P16-1231.pdf) (Andor et al, ACL 2016). 
