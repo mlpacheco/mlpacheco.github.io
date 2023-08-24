@@ -9,7 +9,7 @@ permalink: /
 ### About Me
 
 I am an Assistant Professor of Computer Science at the [University of Colorado Boulder](https://www.colorado.edu/cs/), where I lead the [Boulder Language and Social Technologies](https://blast-cu.github.io/) group. Before joining CU, I was a Postdoctoral Researcher at [Microsoft Research
-NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/). I completed my PhD in Computer Science at Purdue University, and my BSc. in Computer Science and Engineering at the Universidad Simon Bolivar in Caracas, Venezuela.
+NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/). I completed my PhD in Computer Science at [Purdue University](https://www.cs.purdue.edu/), and my BSc. in Computer Science and Engineering at the [Universidad Simon Bolivar](http://www.usb.ve/) in Caracas, Venezuela.
 
 I am also an active organizer at [Queer in AI](https://www.queerinai.com/) and [LatinX in AI](https://www.latinxinai.org/).
 
