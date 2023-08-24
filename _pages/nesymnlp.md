@@ -74,7 +74,7 @@ This is an advanced research class and assumes that students have taken a gradua
 - _Thu. Oct 12_: [Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction](https://aclanthology.org/D19-1041.pdf) (Han et al, EMNLP 2019)
 
 **Week 8: Probabilistic Soft Logic**
-- _Tue. Oct 17_: [Probabilistic Soft Logic for Semantic Textual Similarity](https://aclanthology.org/P14-1114.pdf) (Beltagy et al, ACL 2014)
+- _Tue. Oct 17_: [Probabilistic Soft Logic for Semantic Textual Similarity](https://aclanthology.org/P14-1114.pdf) (Beltagy et al, ACL 2014). **Quiz 4 at the end of the class (Weeks 6-7)**
 - _Thu. Oct 19_: [Joint Models of Disagreement and Stance in Online Debate](https://aclanthology.org/P15-1012.pdf) (Sridhar et al, ACL 2015)
 
 **Week 9: Deep Probabilistic Logic** 
@@ -83,7 +83,7 @@ This is an advanced research class and assumes that students have taken a gradua
 - _Sun. Oct 29_: **Mid-Point Project Report due at midnight**
 
 **Week 10: Vision + Language**
-- _Tue. Oct 31_: [Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding](https://proceedings.neurips.cc/paper_files/paper/2018/file/5e388103a391daabe3de1d76a6739ccd-Paper.pdf) (Yi et al, NeurIPS 2018). **Quiz 3 at the end of the class (Weeks 6-9)**
+- _Tue. Oct 31_: [Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding](https://proceedings.neurips.cc/paper_files/paper/2018/file/5e388103a391daabe3de1d76a6739ccd-Paper.pdf) (Yi et al, NeurIPS 2018). **Quiz 4 at the end of the class (Weeks 8-9)**
 - _Thu. Nov 2_: [The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://openreview.net/pdf?id=rJgMlhRctm) (Mao et al, ICLR 2019)
 
 **Week 11: Dynamic Induction and Reasoning**
@@ -91,7 +91,7 @@ This is an advanced research class and assumes that students have taken a gradua
 - _Thu. Nov 9_: [Dynamic Neuro-Symbolic Knowledge Graph Construction for Zero-shot Commonsense Question Answering](https://mlpacheco.github.io/files/Bosselut_AAAI_2021.pdf) (Bosselut et al, AAAI 2021)
 
 **Week 12: Large Language Models - Modularity**
-- _Tue. Nov 14_: [Language Model Cascades](https://arxiv.org/pdf/2207.10342.pdf) (Dohan et al, Beyond Bayes 2022). **Quiz 4 at the end of the class (Weeks 9-10)**
+- _Tue. Nov 14_: [Language Model Cascades](https://arxiv.org/pdf/2207.10342.pdf) (Dohan et al, Beyond Bayes 2022). **Quiz 5 at the end of the class (Weeks 9-10)**
 - _Thu. Nov 16_: [Decomposed Prompting: A Modular Approach for Solving Complex Tasks](https://openreview.net/pdf?id=_nGgzQjzaRy) (Khot et al, ICLR 2023)
 
 **Week 13: Fall Break**
@@ -107,7 +107,7 @@ This is an advanced research class and assumes that students have taken a gradua
 - _Thu. Dec 7_: [Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think” Step-by-Step](https://aclanthology.org/2023.acl-long.150/) (Li et al, ACL 2023)
 
 **Week 16: Final Project Presentations**
-- _Tue. Dec 12_: Final Project Presentations. **Quiz 4 at the end of the class (Weeks 12-15)**
+- _Tue. Dec 12_: Final Project Presentations. **Quiz 6 at the end of the class (Weeks 12-15)**
 - _Thu. Dec 14_: Final Project Presentations
 
 **Week 17: Final Project Report due on Tue. Dec 19 at midnight**
@@ -129,7 +129,7 @@ What did you find most interesting?
 - **Limitations, flaws, and blind spots:** Is the research question ill defined? Does the paper fail to deliver on its promise? Are there any unrealistic or false assumptions about the goal or target domain? Are there flaws or mistakes in the technical approach or experimental design?
 - **Future work:** How would you improve on this work? Does this paper inspire any new ideas in your own research?
 
-**Reviews are due at 9 am before the class, no late submissions allowed.**
+**Reviews are due at 9 am before the class, no late submissions allowed.** To calculate your final grade, your paper review with the lowest score will be dropped (1 out of 26 paper reviews).
 
 #### Paper Presentation
 
@@ -213,14 +213,14 @@ Please include a link to your code in your final report. Please also add a READM
 ##### Important dates:
 - Project proposal due on Sun. Oct 1 at midnight (Week 5)
 - Mid-point project report due on Sun. Oct 29 at midnight (Week 9)
-- Paper presentations in class on Weeks 15 and 16
+- Paper presentations in class on Week 16
 - Final project report due on Tue. Dec 19 at midnight (Week 17)
 
 #### Quizzes
 
-We will have five quizzes during this course. Each quiz will assess your understanding
+We will have six quizzes during this course. Each quiz will assess your understanding
 of the topics that we have covered in the previous two or three weeks. The
-quizzes will include multiple-choice questions and open-ended questions. You should be able to do well in quizzes as long as you attend the lectures and pay attention to the discussions in class. Each quiz will take 10 minutes. The instructor cannot accommodate quizzes on a different
+quizzes will include multiple-choice questions and open-ended questions. You should be able to do well in quizzes as long as you attend the lectures and pay attention to the discussions in class. Each quiz will take 10 minutes. To calculate your final grade, your lowest scoring quiz will be dropped (1 out of 6 quizzes). The instructor cannot accommodate quizzes on a different
 date unless there are extenuating circumstances. 
 
 #### Late Submission Policy
