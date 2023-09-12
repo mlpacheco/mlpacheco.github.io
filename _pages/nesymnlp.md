@@ -14,7 +14,7 @@ permalink: /teaching/nesymnlp
 **Office hours:** 
 - Location: ECOT 822
 - Thursdays before class: 9:30 to 10:45 am, no appointment needed
-- By appointment: [https://mlpacheco.youcanbook.me/](https://mlpacheco.youcanbook.me/)
+- By appointment
 
 ### Course Description and Learning Objectives
 
