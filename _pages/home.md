@@ -20,9 +20,10 @@ I primarily work on Natural Language Processing and Machine Learning. I am mostl
 
 ### Recent Talks and Tutorials
 
+- *An Overview of Neuro-Symbolic Strategies for NLP and Computational Social Science*, Invited talk at the 1st EU-UK HYBRIDS Meeting at the Universidad de Santiago de Compostela, Spain. 
 - *Natural Language Processing in the Era of Chat-GPT*, Guest lecture at the CELEHS and Harvard Medical School 2023 Data Science Summer Program
 - *NS4NLP: Neuro-Symbolic Methods for NLP*, COLING 2022 Tutorial, IJCAI 2021 Tutorial
-- *Neuro-Symbolic Discourse Processing*, Invited talk at Universidad de Puerto Rico Mayaguez
+- *Neuro-Symbolic Discourse Processing*, Invited talk at the Universidad de Puerto Rico Mayaguez
 - *Neuro-Symbolic Modeling for NLP*, Keynote at the 1st LatinX in NLP Workshop at NAACL 2022
 - *Automated Attack Synthesis by Extracting FSMs from Textual Specs*, Invited talk at Microsoft Research, MIT CSAIL, and Trail of Bits.
 - *Reasoning About Entities and Events with Narrative Graphs*, Guest lecture at the University of North Carolina Chapel Hill
