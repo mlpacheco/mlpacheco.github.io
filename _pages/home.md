@@ -20,7 +20,7 @@ I primarily work on Natural Language Processing and Machine Learning. I am mostl
 
 ### Recent Talks and Tutorials
 
-- *From Topic Models to Concept Models:Facilitating Expert-in-the-Loop Interaction with Neuro-Symbolic Representations*, Invited talk at the UMass Amherst NLP Seminar
+- *From Topic Models to Concept Models: Facilitating Expert-in-the-Loop Interaction with Neuro-Symbolic Representations*, Invited talk at the UMass Amherst NLP Seminar
 - *An Overview of Neuro-Symbolic Strategies for NLP and Computational Social Science*, Invited talk at the 1st EU-UK HYBRIDS Meeting at the Universidad de Santiago de Compostela, Spain. 
 - *Natural Language Processing in the Era of Chat-GPT*, Guest lecture at the CELEHS and Harvard Medical School 2023 Data Science Summer Program
 - *NS4NLP: Neuro-Symbolic Methods for NLP*, COLING 2022 Tutorial, IJCAI 2021 Tutorial
