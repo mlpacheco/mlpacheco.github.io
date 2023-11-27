@@ -98,13 +98,13 @@ This is an advanced research class and assumes that students have taken a gradua
 - _Tue. Nov 21_: No class 
 - _Thu. Nov 22_: No class
 
-**Week 14: Large Language Models - Constraints**
- - _Tue. Nov 28_: [NeuroLogic A*esque Decoding: Constrained Text Generation with Lookahead Heuristics](https://aclanthology.org/2022.naacl-main.57.pdf) (Lu et al, NAACL 2022)
- - _Thu. Nov 30_: [Tractable Control for Autoregressive Language Generation](http://web.cs.ucla.edu/~hzhang19/files/tractable-control-for.pdf) (Zhang et al, ICML 2023)
+**Week 14: Large Language Models - Knowledge Distillation**
+ - _Tue. Nov 28_: [Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think” Step-by-Step](https://aclanthology.org/2023.acl-long.150/) (Li et al, ACL 2023)
+ - _Thu. Nov 30_: [Symbolic Knowledge Distillation: from General Language Models to Commonsense Models](https://aclanthology.org/2022.naacl-main.341.pdf) (West et al, NAACL 2022)
 
 **Week 15: Large Language Models - Knowledge Distillation**
-- _Tue. Dec 5_: [Symbolic Knowledge Distillation: from General Language Models to Commonsense Models](https://aclanthology.org/2022.naacl-main.341.pdf) (West et al, NAACL 2022)
-- _Thu. Dec 7_: [Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think” Step-by-Step](https://aclanthology.org/2023.acl-long.150/) (Li et al, ACL 2023)
+- _Tue. Dec 5_: [Tractable Control for Autoregressive Language Generation](http://web.cs.ucla.edu/~hzhang19/files/tractable-control-for.pdf) (Zhang et al, ICML 2023)
+- _Thu. Dec 7_: [NeuroLogic A*esque Decoding: Constrained Text Generation with Lookahead Heuristics](https://aclanthology.org/2022.naacl-main.57.pdf) (Lu et al, NAACL 2022)
 
 **Week 16: Final Project Presentations**
 - _Tue. Dec 12_: Final Project Presentations. **Quiz 6 at the end of the class (Weeks 12-15)**
