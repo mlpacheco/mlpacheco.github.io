@@ -102,7 +102,7 @@ This is an advanced research class and assumes that students have taken a gradua
  - _Tue. Nov 28_: [Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think” Step-by-Step](https://aclanthology.org/2023.acl-long.150/) (Li et al, ACL 2023)
  - _Thu. Nov 30_: [Symbolic Knowledge Distillation: from General Language Models to Commonsense Models](https://aclanthology.org/2022.naacl-main.341.pdf) (West et al, NAACL 2022)
 
-**Week 15: Large Language Models - Knowledge Distillation**
+**Week 15: Large Language Models - Constraints**
 - _Tue. Dec 5_: [Tractable Control for Autoregressive Language Generation](http://web.cs.ucla.edu/~hzhang19/files/tractable-control-for.pdf) (Zhang et al, ICML 2023)
 - _Thu. Dec 7_: [NeuroLogic A*esque Decoding: Constrained Text Generation with Lookahead Heuristics](https://aclanthology.org/2022.naacl-main.57.pdf) (Lu et al, NAACL 2022)
 
