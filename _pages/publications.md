@@ -9,6 +9,16 @@ permalink: /publications/
 
 ## Publications
 
+### Pre-prints
+
+{% for publi in site.data.publist_preprint %}
+
+  <b>{{ publi.title }}</b> ({{ publi.year }}) <br />
+  {{ publi.authors }} <br />
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <a href="{{ publi.code.url }}">{{ publi.code.display }}</a>
+{% endfor %}
+
 ### 2023
 
 {% for publi in site.data.publist_2023 %}
