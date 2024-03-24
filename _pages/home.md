@@ -30,6 +30,7 @@ I primarily work on Natural Language Processing and Machine Learning. I am mostl
 - *Reasoning About Entities and Events with Narrative Graphs*, Guest lecture at the University of North Carolina Chapel Hill
 
 ### Recent Academic Service 
+-  Area Chair for the ACL Rolling Review
 -  DEI Chair for NAACL 2024
 -  Senior Program Committee for AAAI 2024
 -  Organizing Committee for Queer in AI Workshop @ ACL 2023
