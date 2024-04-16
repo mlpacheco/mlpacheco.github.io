@@ -13,6 +13,8 @@ NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/).
 
 I am also an active organizer for [Queer in AI](https://www.queerinai.com/) and [LatinX in AI](https://www.latinxinai.org/).
 
+<span style="color:red">I am **not** recruiting PhD students for Fall 2025</span>.
+
 
 ### My Work
 
