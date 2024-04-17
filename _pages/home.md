@@ -18,7 +18,7 @@ NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/).
 
 ### My Work
 
-I primarily work on Natural Language Processing and Machine Learning. I am mostly interested in the integration of structured knowledge and statistical models, and in the relationship between language and social systems. I am a strong believer in interdisciplinary, collaborative work. I actively collaborate with researchers in linguistics, human-computer interaction, formal methods, security, bioinformatics, and the behavioral and social sciences. For my most recent work, see [my lab webpage](https://blast-cu.github.io/). For my full list of publications, including work prior to joining CU, go [here](https://mlpacheco.github.io/publications/).
+I primarily work on Natural Language Processing, Machine Learning and Computational Social Science. I am mostly interested in the integration of structured knowledge and statistical models, and in the relationship between language and social systems. I am a strong believer in interdisciplinary, collaborative work. I actively collaborate with researchers in linguistics, human-computer interaction, formal methods, security, bioinformatics, and the behavioral and social sciences. For my most recent work, see [my lab webpage](https://blast-cu.github.io/). For my full list of publications, including work prior to joining CU, go [here](https://mlpacheco.github.io/publications/).
 
 ### Recent Talks and Tutorials
 
