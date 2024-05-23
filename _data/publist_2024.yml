@@ -23,4 +23,7 @@
   authors: C Post, M McGregor, ML Pacheco and A Palmer
   venue: "Proceedings of the 5th International Workshop on Designing Meaning Representations (DMR 2024, to appear)"
   highlight: 0
+  link:
+    url: https://aclanthology.org/2024.dmr-1.15/
+    display: \[Paper\]
   year: 2024
